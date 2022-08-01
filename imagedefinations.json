@@ -1,0 +1,7 @@
+[ 
+    { 
+        "name":"uat-website-html-container", 
+        "imageUri":"205704438450.dkr.ecr.us-east-1.amazonaws.com/arkchat-html-uat:latest" 
+    } 
+] 
+
