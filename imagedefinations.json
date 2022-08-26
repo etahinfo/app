@@ -1,7 +1,7 @@
 [ 
     { 
-        "name":"uat-website-html-container", 
-        "imageUri":"205704438450.dkr.ecr.us-east-1.amazonaws.com/arkchat-html-uat:latest" 
+        "name":"my_app", 
+        "imageUri":"637210537803.dkr.ecr.us-east-1.amazonaws.com/my_app:latest" 
     } 
 ] 
 

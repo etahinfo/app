@@ -9,8 +9,8 @@ phases:
       - echo Logging in to Amazon ECR... 
       - $(aws ecr get-login --region $AWS_DEFAULT_REGION --no-include-email) 
       - IMAGE_TAG="$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | head -c 8)" 
-      - IMAGE_REPO_NAME="arkchat-html-uat" 
-      - AWS_ACCOUNT_ID="205704438450" 
+      - IMAGE_REPO_NAME="my_app" 
+      - AWS_ACCOUNT_ID="637210537803" 
       - echo $AWS_DEFAULT_REGION 
       - echo $IMAGE_REPO_NAME 
       - echo $AWS_ACCOUNT_ID 
