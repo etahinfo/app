@@ -1,6 +1,6 @@
 [ 
     { 
-        "name":"app", 
+        "name":"myapp", 
         "imageUri":"637210537803.dkr.ecr.us-east-1.amazonaws.com/my_app:latest" 
     } 
 ] 
